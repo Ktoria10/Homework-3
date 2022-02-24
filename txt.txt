@@ -1,0 +1,16 @@
+1
+
+<input class="gLFyf gsfi" jsaction="paste:puy29d;" maxlength="2048" name="q" type="text" aria-autocomplete="both" aria-haspopup="false" autocapitalize="off" autocomplete="off" autocorrect="off" autofocus="" role="combobox" spellcheck="false" title="ძიება" value="" aria-label="ძიება" data-ved="0ahUKEwiy_9Sq0Zj2AhXPQ_EDHbzHALsQ39UDCAQ">
+
+<input class="gLFyf gsfi" jsaction="paste:puy29d;" maxlength="2048" name="q" type="text" aria-autocomplete="both" aria-haspopup="false" autocapitalize="off" autocomplete="off" autocorrect="off" autofocus="" role="combobox" spellcheck="false" title="ძიება" value="" aria-label="ძიება" data-ved="0ahUKEwiy_9Sq0Zj2AhXPQ_EDHbzHALsQ39UDCAQ">
+
+
+2
+<input class="gNO89b" value="Google ძებნა" aria-label="Google ძებნა" name="btnK" type="submit" data-ved="0ahUKEwiy_9Sq0Zj2AhXPQ_EDHbzHALsQ4dUDCAc">
+
+
+
+
+3
+
+/html/body/div[1]/div[2]/div/img
